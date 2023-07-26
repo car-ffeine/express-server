@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "express-server",
   "version": "1.0.0",
   "description": "",
@@ -18,6 +19,7 @@
   },
   "homepage": "https://github.com/car-ffeine/express-server#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.18.2"
   }
 }
